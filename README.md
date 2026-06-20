@@ -18,7 +18,7 @@ C+H ` W2I
 
 <img width="700" height="60" alt="core" src="https://raw.githubusercontent.com/vulture-20900/vulture-20900/refs/heads/main/i.webp" />
 
-<h3 style="margin: 5 px 0;">🎬 FANDOMS</h3>
+<h3 style="margin: 5 px 0;"> FANDOMS</h3>
 HETALIA ; CASTLEVANIA ; DEAD BY DAYLIGHT ; SAW (JIGSAW) ; DISCO ELYSIUM<br>
 RESIDENT EVIL ; CLOCKWORK ORANGE ; SCREAM ; POSTAL ; DISPATCH ; THE DISHWASHER : VAMPIRE SMILE...
 
