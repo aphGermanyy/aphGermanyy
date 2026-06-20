@@ -9,36 +9,30 @@ ENG \ GER \ RUS
 C+H ` W2I
 
 **I OFTEN AFK!!** If I don't answer you, be patient or write to me on discord. (. _ . )
+
 <br>
+
 <!-- Кнопка Telegram -->
 <a href="https://t.me" target="_blank">
   <img src="https://shields.io" alt="Telegram">
 </a>
-
 <!-- Кнопка Discord -->
 <a href="https://discord.com" target="_blank">
   <img src="https://shields.io" alt="Discord">
 </a>
 
-<br><br>
+<br>
 
 I am a Vulture or a CYAN (it reads like Siyan) for people close to me. I'm 16 Y.O. ,,,, Idk what i can write here. I don't mind new acquaintances.
 
-<br>
-
-### 🎬 FANDOMS
+**FANDOMS:**
 HETALIA ; CASTLEVANIA ; DEAD BY DAYLIGHT ; SAW (JIGSAW) ; DISCO ELYSIUM
-<br>
 RESIDENT EVIL ; CLOCKWORK ORANGE ; SCREAM ; POSTAL ; DISPATCH ; THE DISHWASHER : VAMPIRE SMILE...
 
-<br>
-
-### DO NOT INT
+**DO NOT INT**
 Under 14 pls
 Gerita haters
 
 </div>
-
-
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ 　　　　　 　 　　ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ　　 ㅤㅤㅤㅤㅤㅤ
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ<div align="center"> <img width="700" height="400" alt="germany" src="https://raw.githubusercontent.com/vulture-20900/vulture-20900/refs/heads/main/east-germany-gdr.gif" /> </div>
