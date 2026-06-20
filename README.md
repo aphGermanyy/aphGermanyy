@@ -1,8 +1,7 @@
 # info
 　 　 　ㅤ<img width="700" height="200" alt="Ludwig" src="https://github.com/vulture-20900/vulture-20900/raw/main/8ec82ead28848e392f572ab50ad483b6.jpg" />
 　 　 　ㅤ　 　 　ㅤ　 　 　<img width="700" height="60" alt="core" src="https://raw.githubusercontent.com/vulture-20900/vulture-20900/refs/heads/main/i.webp" />
-
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤ<div align="center">
+     <div align="center">
 
 # VULTURE
 
@@ -10,9 +9,7 @@ ENG \ GER \ RUS
 C+H ` W2I
 
 **I OFTEN AFK!!** If I don't answer you, be patient or write to me on discord. (. _ . )
-
 <br>
-
 <!-- Кнопка Telegram -->
 <a href="https://t.me" target="_blank">
   <img src="https://shields.io" alt="Telegram">
