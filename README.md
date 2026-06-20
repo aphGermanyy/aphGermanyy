@@ -19,22 +19,21 @@ C+H ` W2I
 
 <img width="700" height="60" alt="core" src="https://raw.githubusercontent.com/vulture-20900/vulture-20900/refs/heads/main/i.webp" />
 
-<!-- Флекс-контейнер для фандомов и картинки без рамок -->
-<div style="display: flex; align-items: center; justify-content: center; gap: 20 px; background: transparent; border: none; margin: 15 px 0;">
-  
-  <!-- Левая часть: Фандомы -->
-  <div style="flex: 1; text-align: center;">
-    <h3 style="margin: 5 px 0;"> FANDOMS</h3>
-    HETALIA ; CASTLEVANIA ; DEAD BY DAYLIGHT ; SAW (JIGSAW) ; DISCO ELYSIUM<br>
-    RESIDENT EVIL ; CLOCKWORK ORANGE ; SCREAM ; POSTAL ; DISPATCH ; THE DISHWASHER : VAMPIRE SMILE...
-  </div>
-  
-  <!-- Правая часть: Картинка Людвига -->
-  <div style="flex-shrink: 0;">
-    <img width="150" height="330" alt="Ludwig" src="https://githubusercontent.com" style="display: block; border: none; background: transparent;" />
-  </div>
-
-</div>
+<!-- Блок фандомов и картинки Людвига бок о бок -->
+<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: none; background: transparent;">
+  <tr style="border: none; background: transparent;">
+    <!-- Левая колонка: Фандомы -->
+    <td align="center" valign="middle" style="border: none; padding-right: 20 px;">
+      <h3 style="margin: 5 px 0;"> FANDOMS</h3>
+      HETALIA ; CASTLEVANIA ; DEAD BY DAYLIGHT ; SAW (JIGSAW) ; DISCO ELYSIUM<br>
+      RESIDENT EVIL ; CLOCKWORK ORANGE ; SCREAM ; POSTAL ; DISPATCH ; THE DISHWASHER : VAMPIRE SMILE...
+    </td>
+    <!-- Правая колонка: Картинка -->
+    <td align="center" valign="middle" style="border: none;">
+      <img width="150" height="330" alt="Ludwig" src="https://raw.githubusercontent.com/vulture-20900/vulture-20900/refs/heads/main/GermanyChibi%20(1).webp" style="display: block;" />
+    </td>
+  </tr>
+</table>
 
 <h3 style="margin: 15 px 0 5 px 0;">DO NOT INT</h3>
 Under 14 pls<br>
