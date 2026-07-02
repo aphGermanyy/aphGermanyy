@@ -1,5 +1,5 @@
 # info
-　 　 　ㅤ<img width="1000" height="200" alt="Ludwig" src="https://github.com/vulture-20900/vulture-20900/raw/main/8ec82ead28848e392f572ab50ad483b6.jpg" />
+　 　 　ㅤ<img width="1000" height="200" alt="Ludwig" src="https://raw.githubusercontent.com/aphGermanyy/vulture-20900/refs/heads/main/97d095857cbac60102163d0598d505e7.jpg" />
 　 　<div align="center">
 
 <h1 style="margin-bottom: 10 px;">VULTURE</h1>
